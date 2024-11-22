@@ -1,0 +1,3 @@
+[submodule "parsec"]
+	path = parsec
+	url = git@github.com:NicCarp11/Parsec-benchmark.git
